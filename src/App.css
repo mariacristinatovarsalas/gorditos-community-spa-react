@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,500,500i,600,600i,700,700i,800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: 'Playfair Display', serif;
+}
+
+/* HEADER */
+
+header {
+  height: 5vw;
+  width: 100%;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  background: #C25E0A url("header-img.jpg") no-repeat right top;
+  background-size: 100vw 20vw;
+}
+
+.logo {
+  width: 5vw;
+  height: 5vw;
+  margin: -0.5vw 1vw 0 0.5vw;
+}
+
+h1 {
+  color: white;
+  font-size: 2vw;
+  font-weight: 800;
+}
+
+span {
+  color: white;
+  font-style: italic;
+}
+
+/* BODY */
+
+.body {
+  display: flex;
+  justify-content: space-between;
+  height: 100vh;
+  background-color: #FFD800;
+}
+
+.body div {
+  display: flex;
+  align-items: center;
+  /*justify-content: center; */
+  flex-direction: column;
+  /* width: 50%; */
+}
+
+p {
+  width: 60%;
+  margin: 0 0 1vw 11vw;
+  text-align: center;
+  font-size: 1.8vw;
+}
+
+h3 {
+  font-weight: 800;
+  font-size: 3vw;
+  margin: 7vw 0 0 11vw;
+}
+
+button {
+  margin: 1vw 0;
+  width: 8vw;
+  height: 2vw;
+  font-size: 1vw;
+  color: white;
+  background-color: brown;
+  border-radius: 17px;
+}
+
+
+/* BODY HOME */
+
+#bodyHomeImg {
+  width: 35vw;
+  height: 35vw;
+  margin-right: 14vw;
+}
+
+/* BODY USERS */
+
+#bodyUsers {
+  background-color: #FFD800;
+  height: 100%;
+}
+
+.subheader {
+  margin-bottom: 0vw;
+  height: 10vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F5B406;
+}
+
+.position {
+  margin-left: 54vw;
+  margin-bottom: 1vw;
+}
+
+#usersContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.userImg {
+  width: 7vw;
+  height: 7vw;
+  margin: -0.5vw 1vw 0 0;
+}
+
+.userDiv {
+  width: 25vw;
+  height: 7vw;
+  margin: 1vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border: 1px solid gray;
+  border-radius: 18px;
+  padding-top: 1vw;
+  color: black;
+  font-size: 1.2vw;
+}
+
+.userData {
+  width: 16vw;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
+
+.link:visited {
+  color: white;
+  text-decoration: none;
+}
+
+/* REGISTER BODY */
+
+.registerBody {
+  display: flex;
+  justify-content: space-between;
+}
+
+#badge {
+  width: 40vw;
+  height: 44vw;
+  border: 3px solid gray;
+  border-radius: 17px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('food.jpg');
+  background-size: 40vw 44vw;
+}
+
+#badge div {
+  width: 18vw;
+  height: 2vw;
+  margin-bottom: 2vw;
+  text-align: center;
+  border: 1.5px solid gray;
+  border-radius: 17px;
+  background-color: white;
+  font-weight: 800;
+}
+
+h4 {
+  font-size: 2vw;
+  font-weight: 800;
+  margin: 1vw 0 2vw 1vw;
+}
+
+.formContainer {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  height: 44vw;
+  width: 40vw;
+  border: 3px solid gray;
+  border-radius: 17px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+label {
+  margin-bottom: 0.2vw;
+}
+
+input {
+  width: 70%;
+  height: 3vw;
+  margin-bottom: 0.4vw;
+  text-align: center;
+  font-size: 1.3vw;
+}
+
+.badgeContainer {
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+#userImg2 {
+  width: 10vw;
+  height: 10vw;
+  margin: 2vw 0;
+}
