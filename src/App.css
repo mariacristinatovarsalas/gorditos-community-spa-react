@@ -15,7 +15,7 @@ header {
   display: flex;
   justify-content: left;
   align-items: center;
-  background: #C25E0A url("header-img.jpg") no-repeat right top;
+  background: #C25E0A url("./images/header-img.jpg") no-repeat right top;
   background-size: 100vw 20vw;
 }
 
@@ -38,24 +38,26 @@ span {
 
 /* BODY */
 
-.body {
+.container {
   display: flex;
   justify-content: space-between;
+  width: 80vw;
+}
+
+.container div {
+  width: 50%;
+  text-align: center;
+}
+
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 100vh;
   background-color: #FFD800;
 }
 
-.body div {
-  display: flex;
-  align-items: center;
-  /*justify-content: center; */
-  flex-direction: column;
-  /* width: 50%; */
-}
-
 p {
-  width: 60%;
-  margin: 0 0 1vw 11vw;
   text-align: center;
   font-size: 1.8vw;
 }
@@ -63,7 +65,7 @@ p {
 h3 {
   font-weight: 800;
   font-size: 3vw;
-  margin: 7vw 0 0 11vw;
+  margin: 0vw 0 1vw 0;
 }
 
 button {
@@ -74,7 +76,10 @@ button {
   color: white;
   background-color: brown;
   border-radius: 17px;
+  text-align: center;
 }
+
+
 
 
 /* BODY HOME */
@@ -82,14 +87,21 @@ button {
 #bodyHomeImg {
   width: 35vw;
   height: 35vw;
-  margin-right: 14vw;
 }
+
+
+
+
 
 /* BODY USERS */
 
 #bodyUsers {
   background-color: #FFD800;
   height: 100%;
+}
+
+.btn_container {
+  text-align: center;
 }
 
 .subheader {
@@ -101,9 +113,8 @@ button {
   background-color: #F5B406;
 }
 
-.position {
-  margin-left: 54vw;
-  margin-bottom: 1vw;
+h2 {
+  font-size: 2vw;
 }
 
 #usersContainer {
@@ -147,6 +158,10 @@ button {
   text-decoration: none;
 }
 
+
+
+
+
 /* REGISTER BODY */
 
 .registerBody {
@@ -155,15 +170,16 @@ button {
 }
 
 #badge {
-  width: 40vw;
-  height: 44vw;
+  width: 35vw;
+  height: 37vw;
   border: 3px solid gray;
   border-radius: 17px;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('food.jpg');
-  background-size: 40vw 44vw;
+  flex-direction: column;
+  background-image: url('./images/food.jpg');
+  background-size: 48vw 40vw;
 }
 
 #badge div {
@@ -175,6 +191,7 @@ button {
   border-radius: 17px;
   background-color: white;
   font-weight: 800;
+  font-size: 2vw;
 }
 
 h4 {
@@ -191,8 +208,8 @@ h4 {
 }
 
 form {
-  height: 44vw;
-  width: 40vw;
+  /* height: 35vw; */
+  width: 37vw;
   border: 3px solid gray;
   border-radius: 17px;
   display: flex;
@@ -206,7 +223,7 @@ label {
 
 input {
   width: 70%;
-  height: 3vw;
+  height: 2.4vw;
   margin-bottom: 0.4vw;
   text-align: center;
   font-size: 1.3vw;

@@ -1,6 +1,6 @@
 # gorditos-community-spa-react
 
-"Gorditos Community" SPA is a website for "gorditos" (people who share the love for food!) to meet and have access to other registered users who share the same interest. Users can register in the website and have access to other users data. It consumes data from "Delilah Resto API". Mini project for React practice. 
+"Gorditos Community" SPA is a website for "gorditos" (people who share the love for food!) to meet and have access to other registered users who share the same interest. Users can register in the website and have access to other users data. It consumes data from "Delilah Resto API". Mini project for React practice (DESKTOP version). 
 
 STEPS:
 
