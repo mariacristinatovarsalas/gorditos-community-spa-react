@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gorditos-community-spa-react/precache-manifest.fa097d421f77473d42cedc1a3eef532d.js"
+  "/gorditos-community-spa-react/precache-manifest.4362dfd742ed16d40c776423d96811a2.js"
 );
 
 self.addEventListener('message', (event) => {
