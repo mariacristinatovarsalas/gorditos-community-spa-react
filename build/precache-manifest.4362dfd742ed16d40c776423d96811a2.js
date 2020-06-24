@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "040e55cc24060f4cb842efe113751e54",
+    "revision": "ac4550b4c774bed1c1ae6b151a06a68e",
     "url": "/gorditos-community-spa-react/index.html"
   },
   {
