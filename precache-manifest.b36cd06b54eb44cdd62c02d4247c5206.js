@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a0e9a0aecf8b44d5b195c5c292a53f4",
+    "revision": "8ecd526f427db931bdbd07debf60159a",
     "url": "/gorditos-community-spa-react/index.html"
   },
   {
-    "revision": "3c5d8829d5f2be5c8598",
+    "revision": "3635f6642cf6e43ff03c",
     "url": "/gorditos-community-spa-react/static/css/main.92843d30.chunk.css"
   },
   {
-    "revision": "1220c48027635aaf413a",
-    "url": "/gorditos-community-spa-react/static/js/2.796fae11.chunk.js"
+    "revision": "771192d4c214abf342c2",
+    "url": "/gorditos-community-spa-react/static/js/2.ba3d4918.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/gorditos-community-spa-react/static/js/2.796fae11.chunk.js.LICENSE.txt"
+    "url": "/gorditos-community-spa-react/static/js/2.ba3d4918.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c5d8829d5f2be5c8598",
-    "url": "/gorditos-community-spa-react/static/js/main.3ea5231b.chunk.js"
+    "revision": "3635f6642cf6e43ff03c",
+    "url": "/gorditos-community-spa-react/static/js/main.9045ca94.chunk.js"
   },
   {
-    "revision": "2d2518e7412d990f9949",
-    "url": "/gorditos-community-spa-react/static/js/runtime-main.78a45e7f.js"
+    "revision": "bcc8405140d67f35ae31",
+    "url": "/gorditos-community-spa-react/static/js/runtime-main.2d7b3dfd.js"
   },
   {
     "revision": "3c2ea5fc85ccb39ef09a328c2336b7c8",
