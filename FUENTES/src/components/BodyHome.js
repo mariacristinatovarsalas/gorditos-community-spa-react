@@ -3,8 +3,9 @@ import logo from '../images/logo.png'
 import { Link } from "react-router-dom";
 
 class BodyHome extends React.Component {
-
   render() {
+    console.log("Aasd")
+
     return (
       <div className="body">
         <div className="container">

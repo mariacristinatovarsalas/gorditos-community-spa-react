@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gorditos-community-spa-react/static/css/main.92843d30.chunk.css",
-    "main.js": "/gorditos-community-spa-react/static/js/main.38912950.chunk.js",
-    "main.js.map": "/gorditos-community-spa-react/static/js/main.38912950.chunk.js.map",
+    "main.js": "/gorditos-community-spa-react/static/js/main.465d659d.chunk.js",
+    "main.js.map": "/gorditos-community-spa-react/static/js/main.465d659d.chunk.js.map",
     "runtime-main.js": "/gorditos-community-spa-react/static/js/runtime-main.78a45e7f.js",
     "runtime-main.js.map": "/gorditos-community-spa-react/static/js/runtime-main.78a45e7f.js.map",
     "static/js/2.730c28ab.chunk.js": "/gorditos-community-spa-react/static/js/2.730c28ab.chunk.js",
     "static/js/2.730c28ab.chunk.js.map": "/gorditos-community-spa-react/static/js/2.730c28ab.chunk.js.map",
     "index.html": "/gorditos-community-spa-react/index.html",
-    "precache-manifest.4362dfd742ed16d40c776423d96811a2.js": "/gorditos-community-spa-react/precache-manifest.4362dfd742ed16d40c776423d96811a2.js",
+    "precache-manifest.443c02762e1d19b6a8035f77de43693b.js": "/gorditos-community-spa-react/precache-manifest.443c02762e1d19b6a8035f77de43693b.js",
     "service-worker.js": "/gorditos-community-spa-react/service-worker.js",
     "static/css/main.92843d30.chunk.css.map": "/gorditos-community-spa-react/static/css/main.92843d30.chunk.css.map",
     "static/js/2.730c28ab.chunk.js.LICENSE.txt": "/gorditos-community-spa-react/static/js/2.730c28ab.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.78a45e7f.js",
     "static/js/2.730c28ab.chunk.js",
     "static/css/main.92843d30.chunk.css",
-    "static/js/main.38912950.chunk.js"
+    "static/js/main.465d659d.chunk.js"
   ]
 }

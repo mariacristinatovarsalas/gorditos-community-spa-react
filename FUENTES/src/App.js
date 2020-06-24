@@ -8,6 +8,7 @@ import BodyRegister from './components/BodyRegister'
 
 
 function App() {
+  
   return (
     <div>
       <Header spancolor="yellow"/>
