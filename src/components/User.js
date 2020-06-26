@@ -1,8 +1,7 @@
 import React from 'react';
 
-class User extends React.Component {
+const User = () => {
 
-  render() {
     return(
       <div className="userDiv">
           <div><img src="https://img2.pngio.com/generic-person-logo-logodix-generic-person-icon-png-649_659.png" className="userImg" alt="person"></img></div>
@@ -14,6 +13,5 @@ class User extends React.Component {
       </div> 
     )
   }
-}
 
 export default User

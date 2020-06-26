@@ -2,9 +2,7 @@ import React from 'react';
 import logo from '../images/logo.png'
 import { Link } from "react-router-dom";
 
-class BodyHome extends React.Component {
-  render() {
-    console.log("Aasd")
+const BodyHome = () => {
 
     return (
       <div className="body">
@@ -25,6 +23,5 @@ class BodyHome extends React.Component {
       </div>
     )
   }
-}
 
 export default BodyHome

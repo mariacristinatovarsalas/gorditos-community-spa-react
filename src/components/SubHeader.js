@@ -1,9 +1,8 @@
 import React from 'react';
 import logo from '../images/logo.png'
 
-class SubHeader extends React.Component {
+const SubHeader = () => {
 
-  render() {
     return(
       <div className="subheader">
         <img src={logo} className="logo" alt="Cuisine"></img>
@@ -11,6 +10,5 @@ class SubHeader extends React.Component {
       </div>
     )
   }
-}
 
 export default SubHeader

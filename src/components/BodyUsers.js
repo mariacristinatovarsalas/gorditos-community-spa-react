@@ -3,9 +3,8 @@ import { Link } from "react-router-dom";
 import SubHeader from './SubHeader'
 import GetUsers from './GetUsers'
 
-class BodyUsers extends React.Component {
+const BodyUsers = () => {
   
-  render() {
     return(
       <div id="bodyUsers">
         <SubHeader />
@@ -13,7 +12,6 @@ class BodyUsers extends React.Component {
         <GetUsers />
       </div>
     )
-  }
 }
 
 export default BodyUsers 

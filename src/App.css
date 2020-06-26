@@ -208,7 +208,6 @@ h4 {
 }
 
 form {
-  /* height: 35vw; */
   width: 37vw;
   border: 3px solid gray;
   border-radius: 17px;
@@ -219,6 +218,7 @@ form {
 
 label {
   margin-bottom: 0.2vw;
+  font-size: 1.5vw;
 }
 
 input {
